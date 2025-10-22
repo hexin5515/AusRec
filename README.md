@@ -2,7 +2,7 @@
 
 This is the official implementation of the following paper:
 
-Graph Defense Diffusion Model
+Automatic Self-supervised Learning for Social Recommendations
 
 <div align="center">
   <img src="https://github.com/hexin5515/AusRec/blob/main/Image/AusRec.jpg" width="1600px"/>
