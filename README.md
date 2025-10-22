@@ -25,6 +25,6 @@ Automatic Self-supervised Learning for Social Recommendations
 
 The main experiments:
 ```
-Training  and testing
+Training and testing
 python main.py --bpr_batch 2048 --recdim 192 --dataset lastfm --model lgn --layer 3 --epochs 1000
 ```
