@@ -12,8 +12,8 @@ Automatic Self-supervised Learning for Social Recommendations
 
 **Required Dependencies** :
 
-* torch>=2.1.2
-* python>=3.8
+* torch>=1.9.1
+* python>=3.8.1
 * scikit-learn>=1.4.1
 * networkx>=2.7
 * tqdm
