@@ -21,7 +21,7 @@ Automatic Self-supervised Learning for Social Recommendations
 
 ## Quick Start
 
-**lastfm Dataset**
+**Lastfm Dataset**
 
 The main experiments:
 ```
